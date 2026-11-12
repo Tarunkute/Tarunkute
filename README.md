@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="tarunkute.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://tarunkute.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/tarun-kute-355a99311"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:kutetarun20@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=Tarunkute&label=Profile+Views&color=00E5FF&style=for-the-badge" alt="Profile views">
@@ -150,7 +150,7 @@ A full-stack bicycle rental platform for city commuters and tourists.
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="tarunkute.github.io"><img src="https://img.shields.io/badge/Portfolio-tarunkute.github.io-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://tarunkute.github.io"><img src="https://img.shields.io/badge/Portfolio-tarunkute.github.io-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/tarun-kute-355a99311"><img src="https://img.shields.io/badge/LinkedIn-Tarun_Kute-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:kutetarun20@gmail.com"><img src="https://img.shields.io/badge/Gmail-kutetarun20@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
